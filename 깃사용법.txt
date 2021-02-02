@@ -111,4 +111,15 @@ $ git push origin master
 
 ///////////////////////////////////
 
+업로드 후에 수정하고 다시 스테이징(add)하고 커밋(commit)하고 푸쉬(push)하기
+그리고 깃허브 리포지토리 클릭 확인하기 
+
+
+
+$ git add .
+
+$ git commit -m 'update'
+
+
+
 
